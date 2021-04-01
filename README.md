@@ -6,3 +6,4 @@
  - Hello World in a new language
  - Something for other hackers to use
  - Write Code to Sort a List
+ - Share a Unique Language Challenge
